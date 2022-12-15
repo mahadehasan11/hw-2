@@ -1,0 +1,18 @@
+@font-face {
+	src: url(fonts/Satisfy-Regular.ttf);
+	font-family: Satisfy;
+}
+
+.para {
+	font-family: "Satisfy", sans-serif;
+}
+
+h1 {
+	font-family: Satisfy; 
+}
+
+.pla {
+	width: 600px;
+	height: 400px;
+}
+
